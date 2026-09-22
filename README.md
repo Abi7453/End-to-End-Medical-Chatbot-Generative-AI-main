@@ -51,6 +51,12 @@ Vector Database
 Large Language Model
 ↓
 AI Generated Response
+## output screenshot
+
+<img width="921" height="609" alt="Screenshot 2025-04-10 115050" src="https://github.com/user-attachments/assets/b4db46e8-2baf-420e-b586-df90919c6f00" />
+<img width="804" height="389" alt="Screenshot 2025-04-10 115117" src="https://github.com/user-attachments/assets/b2a5ed4c-2678-46c3-8b9a-9cea810575e0" />
+
+
 
 ## Installation
 
